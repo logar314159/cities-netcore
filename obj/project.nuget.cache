@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3MnJfwQOjJqLyLc3duo4xK7wrK+oDc6UMbXJwExB8T95ph9EjdsEePQOVt4t5Ad02AccxYyuiVrPpCbx8B6Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Miguel\\Cursos\\Angular\\Proyectos\\netcore-cities\\netcore-cities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miguel.valenzuela\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\miguel.valenzuela\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\miguel.valenzuela\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\miguel.valenzuela\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\miguel.valenzuela\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\miguel.valenzuela\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
